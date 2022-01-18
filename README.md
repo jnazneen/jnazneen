@@ -1,9 +1,12 @@
+# About Me
 ### Hi there 👋
+I am _student_ at ACS. 
+I like playing volleyball. 
+I have two pet cockatiels who are extremely adorable. I have lived in different places around the world. 
 
 <!--
 **jnazneen/jnazneen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
