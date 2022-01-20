@@ -1,9 +1,7 @@
-# About Me
-### Hi there 👋
-I am _student_ at ACS. 
-I like playing volleyball. 
-I have two pet cockatiels who are extremely adorable. I have lived in different places around the world. 
+# About Me :smiley:
+ I am _student_ at ACS. I like playing volleyball. I have two pet cockatiels who are extremely __adorable__. I have lived in different places around the world. Travelling has now become my hobby. 
 
+![alt text](https://ih1.redbubble.net/image.1623783615.3651/st,small,845x845-pad,1000x1000,f8f8f8.jpg "Cockatiel Pic")
 <!--
 **jnazneen/jnazneen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
